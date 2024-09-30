@@ -1,0 +1,39 @@
+body {
+    background-color:lightseagreen;
+    color: black;
+    font-family:"Gowun Batang", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    margin: 0;
+
+}
+
+
+button {
+     background-color:lightgreen;
+     color: black;
+     font-family:"Gowun Batang", serif;
+     
+    }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main{
+text-align: center;
+    max-width: 50%;
+
+}
+
+img{
+max-width: 90%;
+}
+
+
